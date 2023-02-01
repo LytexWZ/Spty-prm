@@ -30,6 +30,9 @@ A small mod for the spotify app that deletes all ads
 
 [IMPORTANT] If the crack doesn't work repeat step 4 and press "Yes" instead of "No"
 
+
+Virus Info: well, as this is a github page you can see all the code I used to do this shit, so don't come to me asking if it's a faking virus bc it isn't. If you don't belive me just download spotify from the official page and run the "Install crack bat", as it is the same lol.
+
 -----------------If you have any issues send me a DM ------------------
 
 DISCORD: Lytex#4316
