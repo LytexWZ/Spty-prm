@@ -1,6 +1,9 @@
 # Spty-prm
-A small mod for the spotify app that deletes all ads in windows
+A small mod for the spotify app that deletes all ads. 
+[Current OS supported; Windows, iOS, Android]
 
+[IMPORTANT!] DOWNLOAD THE FOLDER FOR THE DEVICE YOU WANT TO DOWNLOAD EXAMPLE:
+IF YOU WANT TO DOWNLOAD IN IPHONE, DOWNLOAD THE FILES FROM THE IOS FOLDER. DON'T GET OTHER FILES!!!
 
 ---------------------------- INSTALL GUIDE ----------------------------         
 
@@ -14,7 +17,7 @@ A small mod for the spotify app that deletes all ads in windows
 	1.4 Scroll down and search for Spotify, rigth click it and select Uninstall
 	1.5 Close the control panel
 
-2 Open the installer "Spotify downloader" attached to this same folder
+2 Open the installer "Spotify downloader" attached inside of the WINDOWS folder
 
 3 Wait for it to finish and log into your account
 
@@ -30,6 +33,33 @@ A small mod for the spotify app that deletes all ads in windows
 
 [IMPORTANT] If the crack doesn't work repeat step 4 and press "Yes" instead of "No"
 
+-------------------------------- iOS --------------------------------
+
+1 Download the "IOS CONFIG" file from this same repository at the iOS folder, once it is finished, press close option
+
+2 Go to your device settings and look for Profile Downloaded option when you find it click on this then click on the Install button now if it asks for a passcode then enter your password, Now click on next, Now click on Install, Again click on install.
+
+![image](https://user-images.githubusercontent.com/72569213/216786671-164e7f89-9f98-4dc2-9128-aa49222fff60.png)
+![image](https://user-images.githubusercontent.com/72569213/216786705-920af4d9-9582-44dc-b672-892848291439.png)
+
+3 After the installation process is completed return to your home screen and look for appvalley, then open it and search Spotify++. Click on Get button, Now choose install option.
+
+![image](https://user-images.githubusercontent.com/72569213/216786625-088d7095-097b-46aa-9623-7b168702c3a4.png)
+
+4 When the installation process is complete you need to go Settings -> General -> Profiles, and trust the profile of Spotify++. Done! Now go back and start using Spotify premium!
+
+------------------------------ Android ------------------------------
+
+1 Delete your spotify app
+	1.0 go Settings> Apps> Spotify >Uninstall
+	
+2 Download the APK labeled as "SPTYPRMAPK" 
+
+3 Open it and press Install
+
+4 Done! 
+
+[IMPORTANT] If the crack doesn't work just close the app and open it again
 
 Virus Info: well, as this is a github page you can see all the code I used to do this shit, so don't come to me asking if it's a faking virus bc it isn't. If you don't belive me just download spotify from the official page and run the "Install crack bat", as it is the same lol.
 
