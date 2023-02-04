@@ -53,7 +53,7 @@ IF YOU WANT TO DOWNLOAD IN IPHONE, DOWNLOAD THE FILES FROM THE IOS FOLDER. DON'T
 1 Delete your spotify app
 	1.0 go Settings> Apps> Spotify >Uninstall
 	
-2 Download the APK labeled as "SPTYPRMAPK" 
+2 Go to the "ANDROID" folder and get in the link to download the apk from mediafire
 
 3 Open it and press Install
 
