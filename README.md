@@ -12,7 +12,7 @@ IF YOU WANT TO DOWNLOAD IN IPHONE, DOWNLOAD THE FILES FROM THE IOS FOLDER. DON'T
 1 Delete your actual Spotify app, in case you don't have one go to step 2 directly
 
 	1.1 Press the "⊞" key and the "R" key at the same time (Windows key, bottom left)
-	1.2 Write "control" and predd the enter key (Big key at the rigth part of your keyboard)
+	1.2 Write "control" and press the enter key (Big key at the rigth part of your keyboard)
 	1.3 In the programs blue options select "Uninstall a program" 
 	1.4 Scroll down and search for Spotify, rigth click it and select Uninstall
 	1.5 Close the control panel
