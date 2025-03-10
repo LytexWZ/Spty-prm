@@ -33,6 +33,8 @@ IF YOU WANT TO DOWNLOAD IN IPHONE, DOWNLOAD THE FILES FROM THE IOS FOLDER. DON'T
 
 [IMPORTANT] If the crack doesn't work repeat step 4 and press "Yes" instead of "No"
 
+If Spotify updates and you loose your premium crack, run `update crack` batch file. To avoid this from happening use `stop updates` batch file
+
 -------------------------------- iOS --------------------------------
 
 1 Download the "IOS CONFIG" file from this same repository at the iOS folder, once it is finished, press close option
