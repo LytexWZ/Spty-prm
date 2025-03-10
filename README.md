@@ -63,12 +63,8 @@ If Spotify updates and you loose your premium crack, run `update crack` batch fi
 
 [IMPORTANT] If the crack doesn't work just close the app and open it again
 
-Virus Info: well, as this is a github page you can see all the code I used to do this shit, so don't come to me asking if it's a faking virus bc it isn't. If you don't belive me just download spotify from the official page and run the "Install crack bat", as it is the same lol.
-
 -----------------If you have any issues send me a DM ------------------
 
 DISCORD: Lytex#4316
 
 INSTAGRAM: Pbkzz
-
-TWITTER: R_D4CTED
