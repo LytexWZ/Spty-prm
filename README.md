@@ -65,6 +65,6 @@ If Spotify updates and you loose your premium crack, run `update crack` batch fi
 
 -----------------If you have any issues send me a DM ------------------
 
-DISCORD: Lytex#4316
+DISCORD: lytexjb
 
 INSTAGRAM: Pbkzz
