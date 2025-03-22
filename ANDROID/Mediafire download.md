@@ -1,10 +1,10 @@
 # Spotify premium 
-- Updated to fix all the main tab crashes
+- Updated bypass
 
-- Added a premium license until 2075
+- Fixed empty playlists
 
-- Fixed an issue with the lycrics sync
+- Updated detections by spotify
 
 Download link:
 
-https://www.mediafire.com/file/csnq3rnhy5hx3zw/SpotifyPrm_v9.28.4by%2540pbkzz.apk/file
+https://www.mediafire.com/file/a8vpmytshhou7po/SpotyPRMv9.30.24by%2540pbkzz.apk/file
