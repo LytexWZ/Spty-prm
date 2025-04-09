@@ -1,31 +1,17 @@
-# Spotify premium AMOLED. arm64-v8a + armeabi-v7a.
+# Spotify Premium Stable version
 
-v9.0.32.67
+v9.0.34.105
 
-- Updated bypass & fixed empty playlists
+- Fixed the "Add to the queue" feature.
 
-- Fixed an issue with the queue songs
+- Added new spotify UI.
 
-- Updated detections by spotify
+- Updated bypass (Now fully undetected).
 
-- Testing a fix for the random songs played when playing a searched song
-
-Download link:
-
-https://www.mediafire.com/file/rkor0r5p7dn2gqm/SpotyBetav9.0.32.67by%2540pbkzz.apk/file
-
-# In case beta is NOT working
-
-Uninstal spotify app and download the stable version below:
-
-v9.0.32.272
-
-- Fixed empty playlist & softban of the app
-  
-- No new features implemented
+- Fixed random songs being played when searching a playlist.
 
 Download link:
 
-https://www.mediafire.com/file/kxvo95iq36ploao/SpotifyStablev9.32.272by%2540pbkzz.apk/file
+https://www.mediafire.com/file/39qsnth6x18ku6f/SpotifyFinalv9.34.105by%2540pbkzz.apk/file
 
 
