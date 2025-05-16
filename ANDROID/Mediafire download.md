@@ -1,6 +1,6 @@
 # Spotify Premium Stable version
 
-v9.0.42.529 16 of May 2025
+v9.0.44.478 16 of May 2025
 
 - Fixed the "14 days abroad" message.
 
@@ -12,7 +12,7 @@ v9.0.42.529 16 of May 2025
 
 Download link:
 
-https://www.mediafire.com/file/81m4lnram8494sa/Spotishkav9.42.529by%2540pbkzz.apk/file
+https://www.mediafire.com/file/6qrmshv1cgtdv73
 
 ## Attention!!
 
